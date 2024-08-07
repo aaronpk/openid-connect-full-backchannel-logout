@@ -48,7 +48,7 @@ informative:
 
 --- abstract
 
-OpenID Connect 1.0 is an identity layer on top of the OAuth 2.0 {{RFC6749}} protocol. It enables Clients to verify the identity of the End-User based on the authentication performed by an Authorization Server, as well as to obtain basic profile information about the End-User in an interoperable and REST-like manner.
+OpenID Connect 1.0 {{OpenID}} is an identity layer on top of the OAuth 2.0 {{RFC6749}} protocol. It enables Clients to verify the identity of the End-User based on the authentication performed by an Authorization Server, as well as to obtain basic profile information about the End-User in an interoperable and REST-like manner.
 
 OpenID Connect Back-Channel Logout defines a mechanism for an OP to signal to an RP that a user should be logged out. However, it recommends that refresh tokens issued with the `offline_access` scope SHOULD NOT be revoked.
 
