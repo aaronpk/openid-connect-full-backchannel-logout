@@ -3,7 +3,7 @@ title: "OpenID Connect Full Back-Channel Logout"
 abbrev: "Full Back-Channel Logout"
 category: info
 
-docname: draft-parecki-openid-connect-full-backchannel-logout
+docname: draft-parecki-openid-connect-full-backchannel-logout-latest
 submissiontype: IETF
 number:
 date:
