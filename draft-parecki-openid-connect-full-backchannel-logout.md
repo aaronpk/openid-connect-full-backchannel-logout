@@ -1,3 +1,4 @@
+---
 title: "OpenID Connect Full Back-Channel Logout"
 abbrev: "Full Back-Channel Logout"
 category: info
@@ -14,12 +15,12 @@ keyword:
  - logout
  - revocation
 venue:
-  group: WG
+  group: OpenID Connect
   type: Working Group
-  mail: WG@example.com
-  arch: https://example.com/WG
-  github: USER/REPO
-  latest: https://example.com/LATEST
+  mail: openid-specs-ab@lists.openid.net
+  arch: https://openid.net
+  github: aaronpk/openid-connect-full-backchannel-logout
+  latest: https://github.com/aaronpk/openid-connect-full-backchannel-logout
 
 author:
  -
