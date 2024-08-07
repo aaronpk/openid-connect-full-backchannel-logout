@@ -9,18 +9,18 @@ number:
 date:
 consensus: true
 v: 3
-area: AREA
-workgroup: OpenID Connect
+# area: AREA
+# workgroup: OpenID Connect
 keyword:
  - logout
  - revocation
 venue:
-  group: OpenID Connect
-  type: Working Group
-  mail: openid-specs-ab@lists.openid.net
-  arch: https://openid.net
-  github: aaronpk/openid-connect-full-backchannel-logout
-  latest: https://github.com/aaronpk/openid-connect-full-backchannel-logout
+#  group: OpenID Connect
+#  type: Working Group
+#  mail: openid-specs-ab@lists.openid.net
+#  arch: https://openid.net
+  github: "aaronpk/openid-connect-full-backchannel-logout"
+  latest: "https://aaronpk.github.io/openid-connect-full-backchannel-logout/draft-parecki-openid-connect-full-backchannel-logout.html"
 
 author:
  -
